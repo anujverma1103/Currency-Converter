@@ -99,4 +99,4 @@ ExchangeRate-API: For providing a free and reliable currency exchange rate API.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE.txt). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
