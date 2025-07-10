@@ -4,7 +4,7 @@ This is a currency converter web application that fetches real-time data for cur
 
 ## ✨ Demo
 You can see the live demo of the application here.Visit the webpage here:
-👉 https://anujverma1103.github.io/Currency-Converter
+👉  https://anujverma1103.github.io/Currency-Converter/
 
 ## 📸 Screenshots
 
@@ -63,7 +63,7 @@ Swap Currencies (Optional): Click the "🔁" button located between the dropdown
 
 Convert: Click the "Convert" button to instantly see the calculated converted amount and the current exchange rate.
 
-- Visit the webpage [here](https://anujverma1103.github.io/Currency-Converter "Currency Converter") to try it out instantly.
+- Visit the webpage [here]( https://anujverma1103.github.io/Currency-Converter/ "Currency Converter") to try it out instantly.
 
 ## 🤝 Contributing
 
