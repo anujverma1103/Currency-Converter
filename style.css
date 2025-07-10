@@ -1,0 +1,26 @@
+/* style.css */
+body {
+    background: linear-gradient(135deg, rgb(77, 223, 231), rgb(0, 150, 180));
+    animation: backgroundAnimation 15s infinite alternate;
+}
+
+@keyframes backgroundAnimation {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 100% 50%; }
+}
+
+.chart-container {
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+.btn-swap {
+    transition: all 0.3s ease;
+}
+
+.btn-swap:hover {
+    transform: rotate(180deg);
+    background-color: rgb(20, 184, 166) !important;
+    color: white !important;
+}
