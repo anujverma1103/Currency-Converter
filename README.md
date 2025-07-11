@@ -53,7 +53,7 @@ Simply open the index.html file in your preferred web browser.
 
 This project uses the ExchangeRate-API. A public API key is directly embedded in currencyCodes.js for demonstration purposes. For any production application, it is highly recommended to manage API keys securely on a backend server or using environment variables to prevent exposure.
 
-## 💡 How to Use the App
+## 💡 How to Use
 
 Enter Amount: Type the numerical amount you wish to convert into the input field.
 
@@ -81,15 +81,6 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
-
-## 💻 How to Use
-Enter Amount: Type the amount you wish to convert into the input field.
-
-Select Currencies: Choose the "From" currency and the "To" currency from the dropdown menus.
-
-Swap (Optional): Click the "🔁" button to quickly swap the selected currencies.
-
-Convert: Click the "Convert" button to see the converted amount and the current exchange rate.
 
 ## 🙏 Credits
 
